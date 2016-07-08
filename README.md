@@ -2,9 +2,9 @@
 
 This package includes the following files.
 
-|-- scheduler.c [This is the main program which will output the info.]
-|-- scheduler.h [Header file declaring the structs used in program.]
-|-- README.md [This file]
+- scheduler.c [This is the main program which will output the info.]
+- scheduler.h [Header file declaring the structs used in program.]
+- README.md [This file]
 
 To compile:
     make all
